@@ -3,7 +3,7 @@
   <groupId>com.joyin.mvc</groupId>
   <artifactId>mvc_01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>war</packaging>
   
   <dependencies>
 		<dependency>
